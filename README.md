@@ -1,0 +1,2 @@
+# godemo
+Test Go Project
