@@ -1,4 +1,4 @@
-## Welcome to my Go Demo projectx
+## Welcome to my Go Demo project.
 
 This is only to support the build of multiple example/test go projects.
 
